@@ -31,9 +31,3 @@ Feel free to reach out if you have any questions or projects I can help you with
 Thank you for your time!
 
 P.S. I'm also a big music fan! I enjoy listening to a variety of genres, from rock and pop to classical and electronic music.
-
-Notes:
-
-I have added links to your LinkedIn and GitHub profile to make it easier for people to connect with you.
-I have changed your email to a generic version to protect your privacy. You can change it to your real address if you want.
-I have added a personal note at the end about your passion for music. This can help people get to know you better and connect with you on a personal level.
