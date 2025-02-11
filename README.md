@@ -2,7 +2,7 @@
 Hi there! I'm Luis Miguel Taveras
 Passionate .NET developer with a knack for creating cross-platform applications.
 
-** Expertise in:**
+**Expertise in:**
 
 .NET Maui
 Blazor
